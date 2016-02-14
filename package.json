@@ -1,0 +1,24 @@
+{
+  "name": "broccoli-node-dependency-helper",
+  "version": "1.0.0",
+  "description": "broccoli-node-dependency-helper helps you include Node module dependencies in your packaged app.",
+  "author": "Devin Canterberry <devin@twuni.org>",
+  "license": "MIT",
+  "main": "lib/broccoli-node-dependency-helper.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twuni/broccoli-node-dependency-helper"
+  },
+  "keywords": [
+    "broccoli-helper",
+    "broccoli",
+    "helper",
+    "node",
+    "dependency",
+    "npm"
+  ],
+  "dependencies": {
+    "broccoli-concat": "0.0.13",
+    "broccoli-merge-trees": "1.1.1"
+  }
+}
